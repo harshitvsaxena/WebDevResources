@@ -138,7 +138,7 @@ header {
   padding: 0;
 }
 .top-image {
-  background-image: url('../img/top_image.jpg');
+  background-image: url('img/top_image.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-color: #000;
