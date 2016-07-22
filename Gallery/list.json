@@ -1,0 +1,17 @@
+[
+    {
+      "url": "001.jpg",
+      "thumb": "thumb-001.jpg",
+      "details": "Hello here is the details."
+    },
+    {
+      "url": "002.jpg",
+      "thumb": "thumb-002.jpg",
+      "details": "Second title"
+    },
+    {
+      "url": "003.jpg",
+      "thumb": "thumb-003.jpg",
+      "details": "Second title"
+    }
+]
